@@ -48,6 +48,7 @@ if(isempty(dc))
     dc(3)=0.5;
     dc(4)=0.5;
 end
+
 if(count>=1 && count<300)
     D=d_current;
     count=count+1;
